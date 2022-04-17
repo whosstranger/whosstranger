@@ -6,24 +6,15 @@
 </div>
 <br>
 <div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://64.media.tumblr.com/e1f1c97123ae217eb731500e502e0083/tumblr_n9dxcikmIU1qc9zfzo7_r1_250.gif" align="right">
+<h2 align="center">~ About me ~</h2>
+<img src="https://i.imgur.com/qvR6GtH.mp4" align="right">
 <li>
-<b>Name:</b> Emily</li>
+<b>Name:</b> WhosStranger</li>
 <li>
-<b>Fursona:</b> Female Snow Fox
+<b>Loves:</b> anime, videogames, hacking
 </li>
 <li>
-<b>Loves:</b> anime, osu, rythm games
-</li>
-<li>
-<b>Gender:</b> she/her/Female 🏳️‍⚧️
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development
-</li>
-<li>
-<b>Working @:</b> Intave Anticheat | snens.team
+<b>Hobbys:</b> Red Team, Pentesting Web, Blue Team
 </li>
 <br><br><br>
 </div>
