@@ -11,6 +11,6 @@ I'm Stranger, Engineer focused on cybersecurity in a self-taught way, eager to k
 - 👁️ Red Team, Pentesting Web
 
 ## Contact
-- [WhosStranger](https://whosstranger.github.io/)
+- [WhosStranger](https://whosstranger.github.io/) my WebSite
 - [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
 - [WhoWeAre](https://discord.gg/guJrpySjJZ) on Discord
