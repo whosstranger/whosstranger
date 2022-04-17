@@ -7,7 +7,7 @@
 <br>
 <div>
 <h2 align="center">~ About me ~</h2>
-<img src="https://i.imgur.com/qvR6GtH.mp4" align="right">
+<img src="https://i.imgur.com/D3gcC95.gif" align="right">
 <li>
 <b>Name:</b> WhosStranger</li>
 <li>
