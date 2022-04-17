@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Whos Stranger" />
+  <img src="https://i.imgur.com/PYTpXSh.gif" alt="Whos Stranger" />
 </h1>
 
 ## Hey! 👋
