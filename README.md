@@ -1,5 +1,5 @@
-<h1 align="center" style="border-radius: 10%" >
-  <img src="https://i.imgur.com/PYTpXSh.gif" alt="Whos Stranger" />
+<h1 align="center">
+  <img src="https://i.imgur.com/PYTpXSh.gif" style="border-radius: 100%" alt="Whos Stranger" />
 </h1>
 
 ## Hey! 👋
