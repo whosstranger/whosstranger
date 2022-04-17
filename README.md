@@ -3,20 +3,14 @@
 </h1>
 
 ## Hey! 👋
-I'm Marton, a 18 years old web developer from Hungary.
-
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+I'm Stranger, Engineer focused on cybersecurity in a self-taught way, eager to keep learning..
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, PHP, C#
-- ⚙️ React, Svelte, Vue
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
+- 👨‍💻 Python, Git
+- ⚙️ Blue Team
+- 👁️ Red Team, Pentesting Web
 
 ## Contact
-- [marton.lederer.hu](https://marton.lederer.hu)
-- [@martonlederer](https://twitter.com/martonlederer) on Twitter
-- [@martonlederer](https://twitter.com/instagram) on Instagram
-- [Marton#6513](./) on Discord
+- [WhosStranger](https://whosstranger.github.io/)
+- [WhosStranger](https://app.hackthebox.com/profile/805901) on HackTheBox
+- [WhoWeAre](https://discord.gg/guJrpySjJZ) on Discord
