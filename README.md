@@ -14,14 +14,14 @@
 <b>Loves:</b> anime, videogames, hacking
 </li>
 <li>
-<b>Hobbys:</b> Red Team, Pentesting Web, Blue Team
+<b>Hobbys:</b>Red Team,Pentesting Web,Blue Team
 </li>
 <br><br><br>
 </div>
 <div>
 <h2 align="left">~ Knowledge ~</h2>
 <p>
-<img src="https://i.imgur.com/fajBy1T.gif" align="right">
+<img src="https://i.imgur.com/3moEsFo.gif" align="right">
 </div>
 <div>
 <p align="center"><img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/><br>
