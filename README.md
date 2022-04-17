@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/PYTpXSh.gif" alt="Whos Stranger" />
+  <img src="https://github.com/whosstranger/whosstranger/blob/main/Terminal.mp4" alt="Whos Stranger" />
 </h1>
 
 ## Hey! 👋
