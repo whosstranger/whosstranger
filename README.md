@@ -8,7 +8,9 @@ I'm Stranger, Engineer focused on cybersecurity in a self-taught way, eager to k
 ## Skills
 - 👨‍💻 Python, Github
 - ⚙️ Blue Team
-- 👁️ Red Team, Pentesting Web
+- 👁️ Red Team
+  - ⛓ Pentesting Web
+  - ⚒ Pentesting en redes Wifi
 
 ## Contact
 - [WhosStranger](https://whosstranger.github.io/) my WebSite
