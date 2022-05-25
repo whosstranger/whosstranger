@@ -6,7 +6,8 @@
 I'm Stranger, Engineer focused on cybersecurity in a self-taught way, eager to keep learning..
 
 ## Skills
-- 👨‍💻 Python, Github
+- 👨‍💻 Python
+- 👨‍ Github
 - ⚙️ Blue Team
 - 👁️ Red Team
   - ⛏ Pentesting Web
