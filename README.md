@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/whosstranger/whosstranger/blob/main/entorno.gif" alt="Whos Stranger" />
+  <img src="https://github.com/whosstranger/whosstranger/blob/main/Whoami.gif" alt="Whos Stranger" />
 </h1>
 
 ## Hey! 👋
