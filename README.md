@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://data.whicdn.com/images/241723022/original.gif" alt="Whos Stranger" />
+  <img src="https://media2.giphy.com/media/l41Ys4Fb5r8hcPhde/giphy.gif?cid=ecf05e47xho9g3pe0da5jozpscvaduzw05er2pqhflaqguo1&rid=giphy.gif&ct=g" alt="Whos Stranger" />
 </h1>
 
 ## Hey! 👋
