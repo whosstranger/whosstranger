@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1>
   <img src="https://media2.giphy.com/media/l41Ys4Fb5r8hcPhde/giphy.gif?cid=ecf05e47xho9g3pe0da5jozpscvaduzw05er2pqhflaqguo1&rid=giphy.gif&ct=g" alt="Whos Stranger" style="max-width: 100%"/>
 </h1>
 
