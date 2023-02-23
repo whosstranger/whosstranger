@@ -1,5 +1,5 @@
-<h1 align="center" height="100%" width="100%">
-  <img src="https://media4.giphy.com/media/JS10uPcpwa9QQ/giphy.gif?cid=ecf05e47mc2l2ibq8etplxwq0c0bt2wzyi49w4jt4ouo5swb&rid=giphy.gif&ct=g"/>
+<h1 align="center" style="width:100%; height:0">
+  <img src="https://media0.giphy.com/media/3o7TKTnADOR6rxBt4c/giphy.gif?cid=ecf05e47gcd1rcgvz5giftm23bou0z2l4dkvd3jxz1mq41nb&rid=giphy.gif&ct=g"/>
 </h1>
 
 ## Hey! 👋
